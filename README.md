@@ -4,7 +4,7 @@
 
 A two-milestone team project for **CSEN 403: Concepts of Programming Languages**, German University in Cairo, Spring 2026. The original submissions are preserved as [`prolog/48.pl`](prolog/48.pl) and [`haskell/48.hs`](haskell/48.hs).
 
-[Try the interactive demo](https://doma990.github.io/projects/restaurant-planner/demo/) · [Design walkthrough](https://doma990.github.io/projects/restaurant-planner/)
+[Try the interactive demo](https://Adam-Ahmed1.github.io/projects/restaurant-planner/demo/) · [Design walkthrough](https://Adam-Ahmed1.github.io/projects/restaurant-planner/)
 
 ## 1. Prolog: reservations and ingredients
 
